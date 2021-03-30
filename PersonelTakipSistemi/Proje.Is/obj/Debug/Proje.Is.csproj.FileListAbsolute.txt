@@ -1,0 +1,5 @@
+C:\Users\Cansel\Desktop\PersonelTakipSistemi\Proje.Is\bin\Debug\Proje.Is.dll
+C:\Users\Cansel\Desktop\PersonelTakipSistemi\Proje.Is\bin\Debug\Proje.Is.pdb
+C:\Users\Cansel\Desktop\PersonelTakipSistemi\Proje.Is\obj\Debug\Proje.Is.csprojAssemblyReference.cache
+C:\Users\Cansel\Desktop\PersonelTakipSistemi\Proje.Is\obj\Debug\Proje.Is.dll
+C:\Users\Cansel\Desktop\PersonelTakipSistemi\Proje.Is\obj\Debug\Proje.Is.pdb

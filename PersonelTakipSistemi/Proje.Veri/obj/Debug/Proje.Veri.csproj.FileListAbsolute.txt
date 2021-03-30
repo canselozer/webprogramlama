@@ -1,0 +1,5 @@
+C:\Users\Cansel\Desktop\PersonelTakipSistemi\Proje.Veri\bin\Debug\Proje.Veri.dll
+C:\Users\Cansel\Desktop\PersonelTakipSistemi\Proje.Veri\bin\Debug\Proje.Veri.pdb
+C:\Users\Cansel\Desktop\PersonelTakipSistemi\Proje.Veri\obj\Debug\Proje.Veri.csprojAssemblyReference.cache
+C:\Users\Cansel\Desktop\PersonelTakipSistemi\Proje.Veri\obj\Debug\Proje.Veri.dll
+C:\Users\Cansel\Desktop\PersonelTakipSistemi\Proje.Veri\obj\Debug\Proje.Veri.pdb
